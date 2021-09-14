@@ -1,2 +1,2 @@
 # AlMindsTask
-# AlMindsTask
+![plot](./result.jpeg)
